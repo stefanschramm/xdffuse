@@ -2,6 +2,8 @@
 
 Mount Amiga ADF images using FUSE and amitools.
 
+**Note: This is just a small draft / work in progress!**
+
 ## Installation
 
 Install from Git repository using pip:
@@ -17,6 +19,4 @@ Example:
 ```
 xdffuse image.adf mountpoint/
 ```
-
-Draft / Work in progress
 
