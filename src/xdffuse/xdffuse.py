@@ -6,7 +6,7 @@ import stat
 import time
 import ctypes
 
-from fusepy import FUSE, FuseOSError, Operations
+from fuse import FUSE, FuseOSError, Operations
 
 from amitools.fs.ADFSVolume import ADFSVolume
 from amitools.fs.ADFSDir import ADFSDir

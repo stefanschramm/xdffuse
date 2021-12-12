@@ -8,4 +8,5 @@ build-backend = "setuptools.build_meta"
 [project]
 dependencies = [
     "amitools >= 0.6.0",
+    "fusepy >= 3.0.1"
 ]
