@@ -12,6 +12,12 @@ Install from Git repository using pip:
 pip install git+https://github.com/stefanschramm/xdffuse.git#egg=xdffuse-stefanschramm
 ```
 
+Install from local source:
+
+```
+python3 -m pip install .
+```
+
 ## Usage
 
 Example:
